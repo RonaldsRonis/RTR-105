@@ -25,4 +25,6 @@ ctrl + shift + + - palielina termināli
 ctrl + shift + t - izveido jaunu tabu terminālim
 echo $0 - bash - kā komunicējam ar os
 uname - kāda os tiek izmantota
+git clone  (majaslapa) - nolade failu datorā no git hub p.
+ls -lt - parāda failus dilstošā secībā
 
