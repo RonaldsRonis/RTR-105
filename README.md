@@ -18,3 +18,6 @@ Ctrl + Alt + F1-F7 - maina terminalus
 whoami - parada useri
 who - parada userus
 echo
+ps aux - 
+ps aux | grep firefox - parāda, kas darbojas ar firefox
+
