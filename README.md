@@ -9,6 +9,7 @@ Datormācības Pamatkurss
 
 ## Class 02
 ### Pirmās Komandas un Shortcuti - Linux
+[komandas](https://www.hostinger.com/tutorials/linux-commands) (Noderīgi)
 
 CD - change directory
 mkdir (name) - jauna mape
@@ -20,4 +21,8 @@ who - parada userus
 echo
 ps aux - 
 ps aux | grep firefox - parāda, kas darbojas ar firefox
+ctrl + shift + + - palielina termināli
+ctrl + shift + t - izveido jaunu tabu terminālim
+echo $0 - bash - kā komunicējam ar os
+uname - kāda os tiek izmantota
 
