@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  rm -fr RTR-105
+    4  rm
+    5  git clone        --ignore-fail-on-non-empty
+    6  git clone https://github.com/RonaldsRonis/RTR-105
+    7  rm -fr RTR-105
+    8  git clone https://github.com/RonaldsRonis/RTR-105
+    9  history > history_20220916a.txt
+
+--------
+========
