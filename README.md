@@ -19,6 +19,9 @@ Ctrl + Alt + F1-F7 - maina terminalus
 whoami - parada useri
 who - parada userus
 echo
+
+## Class 3
+### Turpinājums
 ps aux - 
 ps aux | grep firefox - parāda, kas darbojas ar firefox
 ctrl + shift + + - palielina termināli
@@ -27,4 +30,4 @@ echo $0 - bash - kā komunicējam ar os
 uname - kāda os tiek izmantota
 git clone  (majaslapa) - nolade failu datorā no git hub p.
 ls -lt - parāda failus dilstošā secībā
-
+cat - nolasa teksta faila saturu
