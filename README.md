@@ -20,7 +20,7 @@ whoami - parada useri
 who - parada userus
 echo
 
-## Class 3
+## Class 03
 ### Turpinājums
 ps aux - 
 ps aux | grep firefox - parāda, kas darbojas ar firefox
@@ -31,3 +31,4 @@ uname - kāda os tiek izmantota
 git clone  (majaslapa) - nolade failu datorā no git hub p.
 ls -lt - parāda failus dilstošā secībā
 cat - nolasa teksta faila saturu
+nano (filename) - atver editošanu
