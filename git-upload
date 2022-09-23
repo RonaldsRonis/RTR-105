@@ -2,6 +2,7 @@
 git add . # tiek pieteiktas adreses "uzmanīšanai"
 git config --global user.name RonaldsRonis
 git config --global user.email ronalds.hocenkovs@edu.rtu.lv
-git commit -m "Class 04"
+#git commit -m "Class 04"
+git commit -m "class_$1"
 git push origin main
 

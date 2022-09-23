@@ -1,0 +1,81 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  hello-world
+    4  nano hello-world
+    5  hello-world
+    6  ls -lt
+    7  chmod 744 hello-world
+    8  ls -lt
+    9  cat hello-world 
+   10  run hello-world 
+   11  ls -lt
+   12  ./hello-world 
+   13  pwd
+   14  cp hello-world 
+   15  cp hello-world /bin/
+   16  echo $PATH 
+   17  PATH=$PATH
+   18  echo $PATH 
+   19  PATH=$PATH:/home/user:~:.
+   20  echo $PATH 
+   21  hello-world 
+   22  history 
+   23  git clone https://github.com/RonaldsRonis/RTR-105/
+   24  ls -lt
+   25  mv hello-world RTR-105/
+   26  ls -lt
+   27  cd RTR-105/
+   28  pwd
+   29  ls-lt
+   30  ls -lt
+   31  nano
+   32  nano git-upload
+   33  ls -lt
+   34  cd RTR-105
+   35  ls -lt
+   36  nano git-upload
+   37  chmod 744 git-upload 
+   38  history
+   39  history > history_23092022.txt
+   40  ls -lt
+   41  git-upload
+   42  cd
+   43  pwd
+   44  cd
+   45  pwd
+   46  git clone https://github.com/RonaldsRonis/RTR-105/
+   47  rm -rf RTR-105/
+   48  ls-lt
+   49  ls -lt
+   50  git clone https://github.com/RonaldsRonis/RTR-105/
+   51  cd RTR-105/
+   52  nano git-upload 
+   53  cat git-upload 
+   54  ls-lt
+   55  ls -lt
+   56  nano linux_special_variables_test.sh
+   57  chmod 744 linux_special_variables_test.sh 
+   58  ./linux_special_variables_test.sh 
+   59  ./linux_special_variables_test.sh dalbajoba gabals
+   60  nano linux_special_variables_test.sh
+   61  ./linux_special_variables_test.sh dalbajoba gabals
+   62  ls -lt
+   63  chmod 744 linux_special_variables_test.sh 
+   64  ls -lt
+   65  linux_special_variables_test.sh
+   66  linux_special_variables_test.sh sadasd
+   67  linux_special_variables_test.sh sadasd sa
+   68  nano linux_special_variables_test.sh
+   69  linux_special_variables_test.sh sadasd sa
+   70  cat linux_special_variables_test.sh 
+   71  nano linux_special_variables_test.sh
+   72  mv linux_special_variables_test.sh test.sh
+   73  ls -lt
+   74  test.sh
+   75  cat test.sh 
+   76  nano test.sh 
+   77  mv test.sh linux_special_variables_test.sh
+   78  cat linux_special_variables_test.sh 
+   79  nano git-upload 
+   80  history ? history_23092022b.txt
+   81  history > history_23092022b.txt
