@@ -32,3 +32,7 @@ git clone  (majaslapa) - nolade failu datorā no git hub p.
 ls -lt - parāda failus dilstošā secībā
 cat - nolasa teksta faila saturu
 nano (filename) - atver editošanu
+
+## Class 06
+### gcc
+Izveidojām
