@@ -1,0 +1,12 @@
+1. izlasīt stāstu par printf: 
+https://cplusplus.com/reference/cstdio/printf/
+piemēru nosaukt no example - class_08_printf_test.c
+
+2. izlasīt par scanf:
+https://cplusplus.com/reference/cstdio/scanf/
+piemēru no example - class_08_scanf_test.c
+
+---------------------------------------------------
+Apspriešana
+
+

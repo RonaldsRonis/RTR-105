@@ -1,0 +1,87 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clonegit clone
+    4  git clone
+    5  git clone https://github.com/RonaldsRonis/RTR-105
+    6  ls-lt
+    7  ls -lt
+    8  cd RTR-105/
+    9  ls -lt
+   10  test.c
+   11  cd class06/
+   12  ls -lt
+   13  ./first.c
+   14  cat first.
+   15  cat first.c
+   16  cmod 174 first.c
+   17  ls -lt
+   18  nano first.c
+   19  ls -lt
+   20  gcc -save-temps first.c -o first.out
+   21  ls -lt
+   22  first.c
+   23  ./first.c
+   24  first.out
+   25  ./first.out
+   26  gcc tests.c -o tests.out
+   27  gcc first.c -o first.out
+   28  ls -l
+   29  ls -l first.out
+   30  ./first.out
+   31  cat first.c
+   32  gcc /home/user/RTR-105/class06/first.c -o /home/user/RTR-105/first.out
+   33  ls -l first.out
+   34  ls -l
+   35  ./first.out
+   36  ./first.c
+   37  cat first.c
+   38  ./first.out
+   39  nano new buffer
+   40  ls -lt
+   41  nano new\ buffer 
+   42  echo "012345\n6789\tabcde\vfghijk\blmnop\rqr"
+   43  echo -e "012345\n6789\tabcde\vfghijk\blmnop\rqr"
+   44  echo -e "\a\a\a\a"
+   45  cd..
+   46  cd ..
+   47  mkdir Class08
+   48  cd class06/
+   49  cd class08
+   50  cd ..
+   51  cd class08
+   52  Class08
+   53  cd Class08/
+   54  nano uzdevums.txt
+   55  nano class_08_printf_test.c
+   56  nano class_08_scanf_test.c
+   57  ls -lt
+   58  gcc class_08_printf_test.c  -o printf_test.out
+   59  ls -lt
+   60  ./printf_test.out 
+   61  cd ..
+   62  ls -lt
+   63  cd class06
+   64  ls -lt
+   65  cd Class08
+   66  cd ..
+   67  cd Class08\
+   68  cat git-ignore
+   69  cat .gitignore
+   70  cat .git-ignore
+   71  cd ..
+   72  cat .git-ignore
+   73  cat .gitignore
+   74  cd Class08\\
+   75  cd Class08\
+   76  ls -lt
+   77  ./printf_test.out 
+   78  nano class_08_printf_test.c 
+   79  save-temps
+   80  save-temp
+   81  -save-temp
+   82  -save-temps
+   83  cat -save
+   84  cat --help
+   85  save --help
+   86  nano class_08_printf_test.c 
+   87  history > history07102022.txt
